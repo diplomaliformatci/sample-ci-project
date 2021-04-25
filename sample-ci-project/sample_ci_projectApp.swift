@@ -15,5 +15,4 @@ struct sample_ci_projectApp: App {
         }
     }
     
-    // Test Commit - 
 }
