@@ -12,6 +12,8 @@ struct sample_ci_projectApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+            ContentView()
+            ContentView()
         }
     }
     
